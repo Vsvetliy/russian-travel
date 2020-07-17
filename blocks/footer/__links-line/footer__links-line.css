@@ -1,0 +1,7 @@
+@media (min-width: 320px) and (max-width: 768px) {
+  
+    .footer__links-line {
+        margin-bottom: 32px;    
+    }
+    
+}

@@ -1,0 +1,23 @@
+@import url(./__title-image-box/place__title-image-box.css);
+@import url(./__text-box/place__text-box.css);
+@import url(./__title/place__title.css);
+@import url(./__image/place__image.css);
+@import url(./__paragraph/place__paragraph.css);
+
+.place {
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 80px;
+}
+
+@media (min-width: 320px) and (max-width: 768px) {
+    
+    .place {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+     
+}
