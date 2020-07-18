@@ -11,7 +11,7 @@
     justify-content: space-between;
     color: #FFFFFF;
 }
-@media (min-width: 768px) and (max-width: 1024px) {
+/*@media (min-width: 768px) and (max-width: 1024px) {
    
     .footer {
         max-width: 720px;
@@ -26,14 +26,14 @@
        
     }
    
-}
+}*/
 @media (min-width: 320px) and (max-width: 768px) {
    
     .footer {
-        max-width: 186px;
+        /*max-width: 186px;*/
         margin-left: 16px;
         margin-top: 64px;
-        margin-bottom: 24px;
+        /*margin-bottom: 24px;*/
         flex-direction: column;
         
     }

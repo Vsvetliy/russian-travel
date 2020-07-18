@@ -5,11 +5,23 @@
     font-size: 96px;
     line-height: 100px;
     text-align: center;
+    width: 100%;
+    max-width: 720px;
+    margin: 0 auto;
 }
 @media (min-width: 320px) and (max-width: 768px) {
     .lead__title {
         font-size: 40px;
         line-height: 44px;
+        width: 100%;
+    max-width: 288px;
     }
     
 }
+/*@media (min-width: 486px) and (max-width: 768px) {
+    .lead__title {
+        font-size: 40px;
+        line-height: 44px;
+    }
+    
+}*/
