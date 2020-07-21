@@ -14,17 +14,19 @@
 @media (min-width: 1024px) and (max-width: 1280px) {
     
     .intro {
-        margin-top: 48px;
+        
+        margin-left: 48px;
     }
     
 }
-@media (min-width: 500px) and (max-width: 1024px) {
+@media (min-width: 400px) and (max-width: 1024px) {
  
     .intro {
         margin: 0 auto;
-        /*max-width: 720px;*/
         margin-bottom: 92px;
         margin-top: 88px;
+        margin-left: 24px;
+        margin-right: 24px;
     }
       
 }
@@ -32,9 +34,11 @@
    
     .intro {
         margin: 0 auto;
-        max-width: 288px;
+        max-width: 400px;
         margin-top: 64px;
         margin-bottom: 64px;
+        margin-left: 16px;
+        margin-right: 16px;
     }
     
     
