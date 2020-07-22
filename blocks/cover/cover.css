@@ -27,7 +27,7 @@
     }
     
 }
-@media (min-width: 768px) and (max-width: 1024px) {
+@media (min-width: 768px) and (max-width: 1023px) {
     
     .cover {
         min-height: 480px;
@@ -35,7 +35,23 @@
     }
     
 }
-@media (min-width: 320px) and (max-width: 768px) {
+@media (min-width: 600px) and (max-width: 767px) {
+  
+    .cover {
+        min-height: 400px;
+        margin-top: 8px;
+    }
+    
+}
+@media (min-width: 450px) and (max-width: 599px) {
+  
+    .cover {
+        min-height: 300px;
+        margin-top: 8px;
+    }
+    
+}
+@media (min-width: 320px) and (max-width: 449px) {
   
     .cover {
         min-height: 200px;

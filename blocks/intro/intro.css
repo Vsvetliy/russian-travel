@@ -11,7 +11,7 @@
     margin-bottom: 92px;
 }
 
-@media (min-width: 1024px) and (max-width: 1280px) {
+@media (min-width: 1024px) and (max-width: 1279px) {
     
     .intro {
         
@@ -19,7 +19,7 @@
     }
     
 }
-@media (min-width: 400px) and (max-width: 1024px) {
+@media (min-width: 400px) and (max-width: 1023px) {
  
     .intro {
         margin: 0 auto;
@@ -30,7 +30,7 @@
     }
       
 }
-@media (min-width: 320px) and (max-width: 400px) {
+@media (min-width: 320px) and (max-width: 399px) {
    
     .intro {
         margin: 0 auto;

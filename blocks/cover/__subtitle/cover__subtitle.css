@@ -9,7 +9,7 @@
     text-align: center;
     color: #FFFFFF;
 }
-@media (min-width: 320px) and (max-width: 768px) {
+@media (min-width: 320px) and (max-width: 767px) {
   
     .cover__subtitle {
         max-width: 288px;

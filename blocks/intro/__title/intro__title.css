@@ -5,8 +5,23 @@
     font-size: 54px;
     line-height: 58px;
 }
-
-@media (min-width: 320px) and (max-width: 768px) {
+@media (min-width: 680px) and (max-width: 767px) {
+   
+    .intro__title {
+        font-size: 50px;
+        line-height: 50px;
+    }
+    
+}
+@media (min-width: 440px) and (max-width: 679px) {
+   
+    .intro__title {
+        font-size: 44px;
+        line-height: 44px;
+    }
+    
+}
+@media (min-width: 320px) and (max-width: 439px) {
    
     .intro__title {
         font-size: 32px;
